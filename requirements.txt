@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+yahoo_fin
+plotly
+plotly
+json
+datetime 
